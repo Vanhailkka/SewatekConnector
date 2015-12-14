@@ -1,0 +1,12 @@
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\bin\Debug\SewatekConnector.exe.config
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.csprojResolveAssemblyReference.cache
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.Form1.resources
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.Properties.Resources.resources
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.csproj.GenerateResource.Cache
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\bin\Debug\SewatekConnector.exe
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\bin\Debug\SewatekConnector.pdb
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.exe
+C:\TF\teklaskanska.visualstudio.com\SewatekConnector\Dev\Source\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.pdb
+C:\GIT\SewatekConnector\SewatekConnector\bin\Debug\SewatekConnector.exe.config
+C:\GIT\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.exe
+C:\GIT\SewatekConnector\SewatekConnector\obj\Debug\SewatekConnector.pdb
